@@ -1,3 +1,5 @@
+@file:Suppress("UnusedImport")
+
 package com.example.bookcave
 
 import org.junit.After
@@ -5,6 +7,8 @@ import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotEquals
 import org.junit.Before
 import org.junit.Test
+
+import org.junit.Assert
 import org.junit.runner.RunWith
 import org.junit.runners.JUnit4
 
